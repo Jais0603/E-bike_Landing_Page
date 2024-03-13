@@ -3,6 +3,8 @@
 This repository contains the design files for an e-bike landing page, created by [Jais0603](https://www.figma.com/@jais0603) on Figma. 
 
 ![E-Bike Landing Page Preview](https://www.figma.com/community/file/1335329158465751050/e-bike-landing-page)
+![image](https://github.com/Jais0603/E-bike_Landing_Page/assets/98961661/a10eb875-dd71-41ec-ab9a-0062ddaa5aa8)
+
 
 ## Introduction
 This landing page design aims to showcase the features and benefits of an electric bike (e-bike) in a visually appealing and informative manner. The design focuses on highlighting the convenience, eco-friendliness, and fun of using e-bikes for transportation and recreation.
@@ -14,12 +16,9 @@ This landing page design aims to showcase the features and benefits of an electr
 - **Call to Action**: Prominent buttons and links to encourage users to explore further or take desired actions, such as purchasing or contacting for more information.
 
 ## Design Components
-- **Header**: Includes navigation links, logo, and possibly a hero image/video to grab attention.
+- **Header**: Includes navigation links, logo, and possibly a hero image to grab attention.
 - **Features Section**: Highlights key features of the e-bike, such as range, speed, battery life, etc.
-- **Testimonials**: Customer reviews or testimonials to build trust and credibility.
 - **Gallery**: Displays high-quality images showcasing the e-bike in different settings or angles.
-- **Call to Action**: Encourages users to take action, whether it's to learn more, make a purchase, or contact for inquiries.
-- **Footer**: Contains additional navigation links, contact information, and social media links.
 
 ## Getting Started
 To view and edit the design files, follow these steps:
